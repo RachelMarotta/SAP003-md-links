@@ -1,0 +1,25 @@
+{
+  "name": "sap003-md-links",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelMarotta/SAP003-md-links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelMarotta/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/RachelMarotta/SAP003-md-links#readme",
+  "dependencies": {
+    "eslint": "^6.7.1"
+  },
+  "bin": {
+    "mdLinks": "./lib/cli.js"
+  }
+}
