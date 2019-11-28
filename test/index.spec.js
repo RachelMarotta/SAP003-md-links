@@ -1,1 +1,0 @@
-const origin = require("./text.md");

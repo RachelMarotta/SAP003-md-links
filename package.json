@@ -1,25 +1,32 @@
 {
-  "name": "sap003-md-links",
+  "name": "md-links",
   "version": "1.0.0",
-  "description": "## Índice",
-  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C lib/index.js",
+  "description": "mdLinks",
+  "main": "cli.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node cli.js",
+    "test": "jest --coverage"
   },
+  "keywords": [
+    "md",
+    "link",
+    "mdLinks"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RachelMarotta/SAP003-md-links.git"
   },
-  "author": "",
+  "author": "Rachel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RachelMarotta/SAP003-md-links/issues"
   },
   "homepage": "https://github.com/RachelMarotta/SAP003-md-links#readme",
-  "dependencies": {
-    "eslint": "^6.7.1"
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "jest": "^24.9.0"
   },
   "bin": {
-    "mdLinks": "./lib/cli.js"
+    "md-links": "./lib/cli.js"
   }
 }
