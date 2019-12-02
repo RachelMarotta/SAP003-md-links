@@ -28,5 +28,8 @@
   },
   "bin": {
     "md-links": "./lib/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
   }
 }

@@ -1,6 +1,11 @@
 # Markdown Links
 
-## Índice
+## Como Instalar
+`$ npm install RachelMarotta/SAP003-md-links`
+
+## Como Utilizar
+
+Índice
 
 * [1. Prefácio](#1-prefácio)
 * [2. Resumo do projeto](#2-resumo-do-projeto)
