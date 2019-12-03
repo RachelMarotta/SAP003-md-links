@@ -33,15 +33,14 @@ No terminal, execute a seguinte linha:
 
 Exemplo de retorno:
 
-`
+```sh
 http://yahoo.com/          
 Yahoo   
-
 https://apple.com/     
 Apple    
 http://google.com/     
 Google
-`
+```
 
 
 
