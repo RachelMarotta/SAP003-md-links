@@ -7,7 +7,7 @@ Pode ser executada, no terminal, através da CLI (Command Line Interface - Inter
 Um requisito para utilizar esta biblioteca é ter o NodeJS instalado.     
 Execute este comando no terminal:  
 
-`$ npm install -g RachelMarotta/SAP003-md-links`  
+`$ npm install RachelMarotta/SAP003-md-links`  
 
 ## Como Utilizar  
 
